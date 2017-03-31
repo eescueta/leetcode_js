@@ -27,6 +27,4 @@ var rotate = function(matrix) {
     		matrix[j][i] = tmp;
     	}
     }
-
-
 };
